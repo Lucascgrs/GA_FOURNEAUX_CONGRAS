@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./genetic_part1/genetic_part1"
+    ]
+}
