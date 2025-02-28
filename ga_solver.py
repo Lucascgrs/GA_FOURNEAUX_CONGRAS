@@ -115,3 +115,4 @@ class GASolver:
         while cpt < max_nb_of_generations and self.get_best_individual().fitness < threshold_fitness:
             self.evolve_for_one_generation(showBetterFitness)  # Run one generation
             cpt += 1
+            
